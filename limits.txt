@@ -1,0 +1,5 @@
+trojan-1|node-seedtrojan10|0|0
+trojan-2|node-seedtrojan11|0|0
+trojan-3|node-seedtrojan12|0|0
+trojan-4|node-seedtrojan13|0|0
+trojan-5|node-seedtrojan14|0|0
